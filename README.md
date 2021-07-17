@@ -7,7 +7,7 @@ A loaded microservice applications for doing different kinds of POC. This is a s
 
 ## Purpose
 
-The purpose of creating this application is to provide an individual, a holistic idea of microservices architecture, it's working, and its setup.
+The purpose of creating this application is to provide an individual, a holistic idea of microservice architecture, it's working, and its setup.
 
 ## Applications
 
