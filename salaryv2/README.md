@@ -39,7 +39,3 @@ salary:
   api_port: "8080"
 ```
 
-```shell
-# For compiling code
-make build
-```
